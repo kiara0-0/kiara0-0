@@ -4,6 +4,8 @@
 
 I'm a dedicated Computer Science graduate student at New York University.
 I completed my undergraduate studies in Computer Science from MNIT, Jaipur.
+Currently a Faculty and Course Assistant at NYU for DevOps and Agile Methodologies.
+Previously worked at Wells Fargo as an Intern for 8 months.
 With a strong foundation in software development and hands-on experience in various projects, I am eager to leverage my skills and knowledge in real-world applications.
 
 ---
