@@ -7,7 +7,10 @@ I completed my undergraduate studies in Computer Science from MNIT, Jaipur.
 With a strong foundation in software development and hands-on experience in various projects, I am eager to leverage my skills and knowledge in real-world applications.
 
 ---
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krina.0__0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krina-sheth-b0a437206/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krinashethapple@gmail.com) 
 
+---
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
@@ -32,6 +35,8 @@ With a strong foundation in software development and hands-on experience in vari
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
