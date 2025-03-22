@@ -1,6 +1,6 @@
-# 🏄‍♂️ Krina Sheth
+#💗 Krina Sheth
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Developer`**
 
 I'm a dedicated Computer Science graduate student at New York University.
 I completed my undergraduate studies in Computer Science from MNIT, Jaipur.
