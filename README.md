@@ -1,4 +1,4 @@
-#💗 Krina Sheth
+💗 Krina Sheth
 
 **`Software Developer`**
 
